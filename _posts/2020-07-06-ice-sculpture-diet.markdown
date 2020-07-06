@@ -11,7 +11,7 @@ tags:
   - Fat Freezing
 published: true
 ---
-Testing blog post via Jekyll
+The first post on IceSculptureFitness.com
 
 ## A New Book
 
