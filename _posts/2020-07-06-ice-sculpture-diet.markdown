@@ -9,7 +9,7 @@ img: i-rest.jpg
 fig-caption: null
 tags:
   - Fat Freezing
-published: true
+published: false
 ---
 The first post on IceSculptureFitness.com
 
