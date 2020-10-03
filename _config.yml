@@ -5,7 +5,7 @@ permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
-
+safe: false
 # Author Settings
 author: Anthony G # add your name
 author-img: ag.jpg # add your photo
