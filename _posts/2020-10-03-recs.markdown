@@ -13,4 +13,4 @@ permalink: /recs/index.html
 redirect_to: /recs.html
 hidden: true
 ---
-Coming Soon
+Recommendations from The Ice Sculpture Diet Book
