@@ -10,7 +10,7 @@ tags:
   - Fat Freezing
 published: true
 permalink: /recs/index.html
-redirect_to: /recs.html
+redirect_to: ./recs.html
 hidden: true
 ---
 Recommendations from The Ice Sculpture Diet Book
