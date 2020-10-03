@@ -9,6 +9,7 @@ fig-caption: null
 tags:
   - Fat Freezing
 published: true
+permalink: /recs/index.html
 redirect_to: https://www.amazon.com/shop/anthonydgallo
 ---
 Coming Soon
