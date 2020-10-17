@@ -13,6 +13,6 @@ permalink: /template/index.html
 #redirect_to: ./files/ISD_Template.pdf
 hidden: true
 ---
-# Routine Template from The Ice Sculpture Diet
+### So you're looking to start a routine using The Ice Sculpture Diet?
 
-Download it here: <a href="http://icesculpturefitness.com/files/ISD_Template.pdf" target="_blank">Ice Sculpture Diet Template</a>
+Download the one-page template from the book here: <a href="http://icesculpturefitness.com/files/ISD_Template.pdf" target="_blank">ISD Routine Template</a>
