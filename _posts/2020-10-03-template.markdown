@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ice Sculpture Diet Recs
+title: The Ice Sculpture Diet Template
 date: '2020-10-03'
 description: >-
   Template For The Ice Sculpture Diet
@@ -10,7 +10,9 @@ tags:
   - Fat Freezing
 published: true
 permalink: /template/index.html
-redirect_to: ./files/ISD_Template.pdf
+#redirect_to: ./files/ISD_Template.pdf
 hidden: true
 ---
-Recommendations from The Ice Sculpture Diet Book
+# Routine Template from The Ice Sculpture Diet
+
+Download it here: <a href="http://icesculpturefitness.com/files/ISD_Template.pdf" target="_blank">Ice Sculpture Diet Template</a>
