@@ -1,0 +1,16 @@
+---
+layout: post
+title: The Ice Sculpture Diet Recs
+date: '2020-10-03'
+description: >-
+  Template For The Ice Sculpture Diet
+img: i-rest.jpg
+fig-caption: null
+tags:
+  - Fat Freezing
+published: true
+permalink: /template/index.html
+redirect_to: ./files/ISD_Template.pdf
+hidden: true
+---
+Recommendations from The Ice Sculpture Diet Book
