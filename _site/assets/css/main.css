@@ -426,6 +426,22 @@ canvas {
 template {
   display: none;
 }
+.isd-title {
+  /*display: none;*/
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+.links
+{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.links li {
+  line-height: 30px;
+  font-size: 16px;
+}
 
 /* Hidden
    ========================================================================== */
@@ -974,7 +990,7 @@ table tfoot td {
   position: relative;
   padding-bottom: 15px;
   font-size: 16px;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   color: #333030;
   font-weight: 700;
 }
@@ -1365,6 +1381,16 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
+  .isd-title {
+    display: block;
+  }
+  .links {
+    list-style-type: none;
+    line-height: 20px;
+  }
+  /*.show-line {
+    display:none
+  }*/
   .post {
     width: 48%;
     max-width: 100%;
@@ -1391,6 +1417,30 @@ a.newer-posts:hover {
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
+  .isd-title {
+    display: block;
+  }
+  .author-name {
+    display: none;
+  }
+  .about-bio {
+    display: none;
+  }
+  .links {
+    list-style-type: none;
+    text-align: center; 
+    padding: 0;
+    margin: 0;
+  }
+  .links li {
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px;
+    line-height: 10px;
+  }
+  .show-line {
+    display:none
+  }
   .sidebar {
     position: relative;
     display: -webkit-box;
@@ -1453,6 +1503,29 @@ a.newer-posts:hover {
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
+  .author-name {
+    display: none;
+  }
+  .about-bio {
+    display: none;
+  }
+  .isd-title {
+    display: block;
+  }
+  .show-line {
+    display:none
+  }
+  .links {
+    list-style-type: none;
+    text-align: center; 
+    padding: 0;
+    margin: 0;
+  }
+  .links li {
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px;
+  }
   .content-box {
     padding: 10px;
   }

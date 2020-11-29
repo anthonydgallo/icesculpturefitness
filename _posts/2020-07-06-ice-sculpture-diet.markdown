@@ -1,14 +1,12 @@
 ---
-layout: post
 title: The Ice Sculpture Diet
+layout: post
 date: '2020-07-06'
-description: >-
-  You’ll find this post in your `_posts` directory. Go ahead and edit it and
-  re-build the site to see your changes.
 img: i-rest.jpg
 fig-caption: null
 tags:
-  - Fat Freezing
+- Fat Freezing
 published: true
 ---
+
 Coming Soon
