@@ -1,9 +1,9 @@
 title: The Ice Sculpture Diet
 description: > # this means to ignore newlines until "baseurl:"
-  Home for the Ice Sculpture Diet. Learn How To Lose Fat with The Foundation, The Freeze, And The Mind.
+  Virtual home for the Ice Sculpture Diet. Learn How To Lose Fat with The Foundation, The Freeze, And The Mind.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.icesculpturediet.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 safe: false
 # Author Settings
