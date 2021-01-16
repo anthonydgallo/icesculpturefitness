@@ -1,5 +1,5 @@
 ---
-title: Is Fat Freezing Real?
+title: The Science Behind Fat Freezing
 layout: post
 date: '2020-01-15'
 img: i-rest.jpg
