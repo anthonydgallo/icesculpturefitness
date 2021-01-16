@@ -1,5 +1,5 @@
 ---
-title: The Ice Sculpture Diet
+title: 'Presenting: The Ice Sculpture Diet'
 layout: post
 date: '2020-01-15'
 img: article_header.jpg

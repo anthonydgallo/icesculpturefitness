@@ -432,13 +432,23 @@ template {
   font-weight: bold;
   font-size: 20px;
 }
+.standard-header-show {
+  /*display: none;*/
+}
+
+.mobile-header-show {
+  display: none;
+}
 .links
 {
+  color: #263959;
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
+
 .links li {
+  color: #263959;
   line-height: 30px;
   font-size: 16px;
 }
@@ -1384,6 +1394,12 @@ a.newer-posts:hover {
   .isd-title {
     display: block;
   }
+  .standard-header-show {
+    /* display: none; */
+  }
+  .mobile-header-show {
+    /* display: block; */
+  }
   .links {
     list-style-type: none;
     line-height: 20px;
@@ -1423,21 +1439,35 @@ a.newer-posts:hover {
   .author-name {
     display: none;
   }
+  .standard-header-show {
+    display: none;
+  }
+  .mobile-header-show {
+    display: block;
+  }
   .about-bio {
     display: none;
   }
+
   .links {
     list-style-type: none;
     text-align: center; 
     padding: 0;
     margin: 0;
   }
+
+  .links a {
+    color: #263959;
+    text-decoration: none;
+  }
+
   .links li {
     display: inline-block;
     font-size: 16px;
     padding: 10px;
     line-height: 10px;
   }
+  
   .show-line {
     display:none
   }
@@ -1503,10 +1533,19 @@ a.newer-posts:hover {
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
+  .standard-header-show {
+    display: none;
+  }
+  .mobile-header-show {
+    display: block;
+  }
   .author-name {
     display: none;
   }
   .about-bio {
+    display: none;
+  }
+  .contact {
     display: none;
   }
   .isd-title {
@@ -1516,15 +1555,19 @@ a.newer-posts:hover {
     display:none
   }
   .links {
+    color: #263959;
     list-style-type: none;
     text-align: center; 
     padding: 0;
     margin: 0;
   }
   .links li {
+    color: #263959;
     display: inline-block;
     font-size: 16px;
     padding: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
   }
   .content-box {
     padding: 10px;
