@@ -1,12 +1,12 @@
 ---
 title: The Ice Sculpture Diet
 layout: post
-date: '2020-12-25'
-img: i-rest.jpg
+date: '2021-01-15'
+img: article_header.jpg
 fig-caption: null
 tags:
 - Fat Freezing
-published: false
+published: true
 ---
 
 Coming Soon
