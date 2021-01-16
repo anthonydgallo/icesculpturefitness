@@ -1395,10 +1395,11 @@ a.newer-posts:hover {
     display: block;
   }
   .standard-header-show {
-    /* display: none; */
+    display: block; 
   }
+
   .mobile-header-show {
-    /* display: block; */
+    display: none; 
   }
   .links {
     list-style-type: none;
