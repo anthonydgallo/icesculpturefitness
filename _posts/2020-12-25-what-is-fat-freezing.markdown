@@ -2,7 +2,7 @@
 title: The Science Behind Fat Freezing
 layout: post
 date: '2020-01-15'
-img: i-rest.jpg
+img: header.jpg
 fig-caption: null
 tags:
 - Fat Freezing
