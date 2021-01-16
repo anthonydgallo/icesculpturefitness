@@ -1,8 +1,8 @@
 ---
-title: The Science Behind Fat Freezing
+title: Self-Image Transformation For Weight Loss
 layout: post
-date: '2020-01-16'
-img: header.jpg
+date: '2021-01-16'
+img: header3.jpg
 fig-caption: null
 tags:
 - Fat Freezing

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Ice Sculpture Diet Recs
-date: '2020-10-03'
+title: Ice Sculpture Diet Approved Products
+date: '2021-01-03'
 description: >-
-  Recs For The Ice Sculpture Diet
-img: i-rest.jpg
+  Approved Products Used in The Ice Sculpture Diet
+img: header.jpg
 fig-caption: null
 tags:
   - Fat Freezing
