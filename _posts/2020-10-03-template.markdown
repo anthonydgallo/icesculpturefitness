@@ -12,6 +12,7 @@ published: true
 permalink: /template/index.html
 #redirect_to: ./files/ISD_Template.pdf
 hidden: true
+sitemap: false
 ---
 ### So you're looking to start a routine using The Ice Sculpture Diet?
 
