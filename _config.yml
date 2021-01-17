@@ -28,6 +28,11 @@ defaults:
       path:            "files/*"
     values:
       sitemap:         false
+  -
+    scope:
+      path:            "assets/**/*.pdf"
+    values:
+      sitemap:         false
 
 # Build Settings
 markdown: kramdown
