@@ -1419,10 +1419,19 @@ a.newer-posts:hover {
   text-decoration: underline;
   opacity: .8;
 }
+.coming-soon {
+  display: none;
+}
+.coming-soon-desktop {
+  display: block;
+}
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
+  .email {
+    display: none;
+  }
   .isd-title {
     display: block;
   }
@@ -1550,6 +1559,8 @@ a.newer-posts:hover {
     font-size: 16px;
     padding: 10px;
     line-height: 10px;
+    padding-right: 100px;
+    padding-left: 100px;
   }
   
   .show-line {
@@ -1610,8 +1621,14 @@ a.newer-posts:hover {
         -ms-flex-align: stretch;
             align-items: stretch;
   }
-  .contact-title, .copyright {
+  .contact-title, .contact, .copyright {
     display: none;
+  }
+  .coming-soon-desktop {
+    display: none;
+  }
+  .coming-soon {
+    display: block;
   }
 }
 
@@ -1653,6 +1670,12 @@ a.newer-posts:hover {
   }
   .about-bio {
     display: none;
+  }
+  .coming-soon-desktop {
+    display: none;
+  }
+  .coming-soon {
+    display: block;
   }
   .contact {
     display: none;
