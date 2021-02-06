@@ -1,6 +1,9 @@
 ---
 layout: main
 ---
+<p>
+  <img class ="standard-header-show" src ={{ "/assets/img/header.jpg" | prepend: site.baseurl }}>
+</p>
 {% for post in paginator.posts %}
 <article class="post">
   {% if post.img %}

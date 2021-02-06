@@ -4,8 +4,10 @@ layout: default
 
 <aside class="sidebar">
   <header>
-    <div class="isd-title">The Ice Sculpture Diet</div>
+    <!-- <img src ={{ "/assets/img/header.jpg" | prepend: site.baseurl }}>
+    <div class="isd-title">The Ice Sculpture Diet</div> -->
     <div class="show-line"><br></div>
+    <img class ="mobile-header-show" src ={{ "/assets/img/mobile_header.jpg" | prepend: site.baseurl }}>
     <div class="about">
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
@@ -14,23 +16,22 @@ layout: default
       <p class="about-bio">{{site.about-author}}</p>
       <ul class="links">
         <li>
-          <b><a href="https://gumroad.com/icesculpturediet#xiMpT" target="_blank">Remote Coaching</a></b>
+        <b><a href="https://geni.us/TheIceSculpture" target="_blank">>> Order The Book <<</a></b>
         </li>
         <li>
-        <b><a href="https://www.amazon.com" target="_blank">Order The Book</a></b>
+          <b><a href="https://www.icesculpturediet.com/recs" target="_blank"> Approved Products </a></b>
         </li>
         <li>
-          <b><a href="https://www.icesculpturediet.com/recs" target="_blank">Approved Products</a></b>
-          </li>
-        <li>
-        <b><a href="#">About</a></b>
+          <b><a href="https://gum.co/icesculpturediet" target="_blank"> Remote Coaching </a></b>
         </li>
       </ul>
+      <div class="coming-soon"><br><b><i>Coming Soon:</b> February 16th, 2021</i></b></div>
+      <div class="coming-soon-desktop"><b><br><br>Coming Soon:</b> <br>February 16th, 2021</b></div>
     </div>
   </header> <!-- End Header -->
   <footer>
     <section class="contact">
-      <h3 class="contact-title">Contact me</h3>
+      <h3 class="contact-title">Contact Me</h3>
       <ul>
         {% if site.social-twitter %}
           <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -55,7 +56,7 @@ layout: default
         {% if site.social-email %}
           <li class="email"><a href="mailto:{{site.social-email}}"><i class="fa fa-envelope-o"></i></a></li>
         {% else %}
-          <li class="email"><a href="mailto:anthonydgallo@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+          <!-- <li class="email"><a href="mailto:anthonydgallo@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li> -->
         {% endif %}
       </ul>
     </section> <!-- End Section Contact -->

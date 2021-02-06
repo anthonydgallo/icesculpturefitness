@@ -1,26 +1,38 @@
 title: The Ice Sculpture Diet
 description: > # this means to ignore newlines until "baseurl:"
-  Home for the Ice Sculpture Diet. Learn How To Lose Fat with The Foundation, The Freeze, And The Mind.
+  Virtual home for the Ice Sculpture Diet. Learn How To Lose Fat with The Foundation, The Freeze, And The Mind.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.icesculpturediet.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 safe: false
 # Author Settings
-author: Anthony Gallo # add your name
-author-img: prof.jpg # add your photo
-about-author: Certified personal trainer and author of The Ice Sculpture Diet. # add description
+author: Anthony D. Gallo # add your name
+author-img: profb.jpg #prof.jpg # add your photo
+about-author: 'NASM Certified personal trainer and author of The Ice Sculpture Diet.' # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: 'anthonydgallo@gmail.com'
 
 # Disqus
 discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: UA-54187800-2 # Google Analytics
+
+defaults:
+  -
+    scope:
+      path:            "files/*"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "assets/**/*.pdf"
+    values:
+      sitemap:         false
 
 # Build Settings
 markdown: kramdown
