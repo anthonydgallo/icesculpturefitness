@@ -8,6 +8,9 @@ tags:
   - Fat Freezing
 published: true
 ---
+
+# **The Basal Metabolic Rate**
+
 Everyone’s body burns a minimum amount of calories throughout the day to maintain life-sustaining functions, like breathing and brain activity. You burn calories even when you’re asleep. But how many calories do you burn? What are the factors that affect that number? 
 
 To answer these questions, you’ll need to calculate your Basal Metabolic Rate (BMR).
@@ -19,7 +22,7 @@ For example, a bodybuilder with 10 to 20 pounds more muscle mass than an average
 We’re going to work with BMR throughout this book, so let’s calculate yours now.
 
 
-# **How To Calculate Your BMR**
+# How To Calculate Your BMR
 You can find various formulas for BMR online, but I use the ones below (known as the Harris-Benedict equation):
 
 **Men:** 66 + (6.23 x Weight in Pounds) + (12.7 x Height in Inches) – (6.8 x Age in Years)
@@ -28,12 +31,10 @@ You can find various formulas for BMR online, but I use the ones below (known as
 
 
 To understand this in practice, let’s calculate my current BMR. I’m a male who is 155 pounds, 71 inches tall, and thirty years old.
-##  &nbsp;
 
 **Here’s the math using the formula above:**
 
 66 + (6.23 x 155) + (12.7 x 71) – (6.8 x 30) = 1,729.35 calories a day
-##  &nbsp;
 
 So, my BMR number is roughly 1,729 calories a day. Knowing this, I can assume that if I ate exactly 1,729 calories a day and did no exercise, I wouldn’t gain or lose any weight.
 
@@ -44,15 +45,17 @@ Once you calculate your BMR, losing weight becomes a lot clearer. You can use it
 Many people pay personal trainers for an initial session just to understand their BMR. Now that you know how to do this for yourself, you can skip that session.
 
 
-# **Use What the BMR Calculation Tells You**
+# Use What the BMR Calculation Tells You
 
 While we will add calories to our BMR number later for exercise, it is easy to assume that you burn more calories than what the BMR equation tells you.
 
 Don’t be tempted to add extra calories to your burn rate. If you want to lose weight, the first step is to accept the baseline numbers so that you can build off them. While starting off, use the BMR equation above and work with the number you get. We can be a little bit more flexible later once the weight starts coming off.
 
 
-# **So, You Calculated Your BMR. Now What?**
+# So, You Calculated Your BMR. Now What?
 
 Knowing that I burn at least 1,729 calories a day, I can calculate how much food I have to eat to lose weight. I can also calculate almost exactly how long it will take to lose 5, 10, or 15 pounds based on my “intake number,” or the number of calories I’m consuming each day.
 
-Before we get into calculating how long it will take to lose weight, let’s first talk about food tracking. Food tracking is going to be critical for you to see success in your weight-reduction plan, so pay attention. I’ll go into more detail on technology for tracking this in Chapter 3. For now, it’s worth mentioning some simple ways to track food because of how important this is for your foundational weight loss.
+If you're interested in learning exactly how to calculate how long it will take to lose weight, including a new method for freezing fat and breaking through plateaus, check out my book The Ice Sculpture Diet on Amazon:
+
+[https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM](https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM "The Ice Sculpture Diet")
