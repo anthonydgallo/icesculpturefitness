@@ -1,7 +1,7 @@
 ---
 title: The Science Behind Fat Freezing
 layout: post
-date: '2021-01-15'
+date: '2021-02-06'
 img: header.jpg
 fig-caption: null
 tags:
