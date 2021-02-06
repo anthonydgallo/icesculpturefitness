@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thank You For Subscribing!
-date: '2021-02-15'
+date: '2020-09-01'
 description: Thank you!
 img: header.jpg
 fig-caption: null
