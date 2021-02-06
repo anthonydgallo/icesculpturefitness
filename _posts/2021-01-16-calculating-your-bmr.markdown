@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-# **The Basal Metabolic Rate**
+# The Basal Metabolic Rate
 
 Everyone’s body burns a minimum amount of calories throughout the day to maintain life-sustaining functions, like breathing and brain activity. You burn calories even when you’re asleep. But how many calories do you burn? What are the factors that affect that number? 
 
