@@ -1,19 +1,26 @@
 ---
 layout: post
-title: The Ice Sculpture Diet Template
+title: The Ice Sculpture Diet Routine Template
 date: '2021-01-15'
-description: >-
-  Template For The Ice Sculpture Diet
+description: Template For The Ice Sculpture Diet
 img: header.jpg
 fig-caption: null
 tags:
   - Fat Freezing
 published: true
 permalink: /template/index.html
-#redirect_to: ./files/ISD_Template.pdf
 hidden: true
 sitemap: false
 ---
-### So you're looking to start a routine using The Ice Sculpture Diet?
+## Thanks for reading The Ice Sculpture Diet!
 
-Download the one-page template from the book here: <a href="http://icesculpturediet.com/files/ISD_Template.pdf" target="_blank">ISD Routine Template</a>
+It looks like you're preparing to start your diet routine.
+
+You've got a great journey ahead of you. This free template should help set you on the right path.
+
+**Download the template from the book here: **
+
+<a href="http://icesculpturediet.com/files/ISD_Template.pdf" target="_blank">Ice Sculpture Diet Template Download</a>
+
+If you found this page before reading the book, grab a copy of the book below (you'll be happy you did):
+[https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM](https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM "The Ice Sculpture Diet")
