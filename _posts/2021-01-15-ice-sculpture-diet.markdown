@@ -47,4 +47,4 @@ If you’ve struggled with keeping weight off in the past, The Ice Sculpture Die
 Get ready to experience a healthy weight-loss mindset, learn what your body needs to thrive, and **_freeze away stubborn fat forever_**.
 
 Check it out on Amazon today: 
-https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM
+[https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM](https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM "The Ice Sculpture Diet")
