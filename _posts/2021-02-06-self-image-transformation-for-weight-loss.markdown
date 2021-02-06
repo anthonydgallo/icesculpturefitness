@@ -1,7 +1,7 @@
 ---
 title: Self-Image Transformation For Weight Loss
 layout: post
-date: '2021-01-16'
+date: '2021-02-06'
 img: header3.jpg
 fig-caption: null
 tags:
