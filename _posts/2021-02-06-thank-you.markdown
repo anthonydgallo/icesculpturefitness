@@ -1,0 +1,15 @@
+---
+layout: post
+title: Thank You For Subscribing!
+date: '2021-01-15'
+description: 'Thank you!'
+img: header.jpg
+fig-caption: null
+tags:
+  - Fat Freezing
+published: true
+permalink: /thankyou/index.html
+hidden: true
+sitemap: false
+---
+## Thanks for subscribing!
