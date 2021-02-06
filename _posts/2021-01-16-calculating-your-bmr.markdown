@@ -8,6 +8,9 @@ tags:
   - Fat Freezing
 published: true
 ---
+
+# **The Basal Metabolic Rate**
+
 Everyone’s body burns a minimum amount of calories throughout the day to maintain life-sustaining functions, like breathing and brain activity. You burn calories even when you’re asleep. But how many calories do you burn? What are the factors that affect that number? 
 
 To answer these questions, you’ll need to calculate your Basal Metabolic Rate (BMR).
@@ -28,12 +31,12 @@ You can find various formulas for BMR online, but I use the ones below (known as
 
 
 To understand this in practice, let’s calculate my current BMR. I’m a male who is 155 pounds, 71 inches tall, and thirty years old.
-##  &nbsp;
+###  &nbsp;
 
 **Here’s the math using the formula above:**
 
 66 + (6.23 x 155) + (12.7 x 71) – (6.8 x 30) = 1,729.35 calories a day
-##  &nbsp;
+###  &nbsp;
 
 So, my BMR number is roughly 1,729 calories a day. Knowing this, I can assume that if I ate exactly 1,729 calories a day and did no exercise, I wouldn’t gain or lose any weight.
 
@@ -55,4 +58,6 @@ Don’t be tempted to add extra calories to your burn rate. If you want to lose 
 
 Knowing that I burn at least 1,729 calories a day, I can calculate how much food I have to eat to lose weight. I can also calculate almost exactly how long it will take to lose 5, 10, or 15 pounds based on my “intake number,” or the number of calories I’m consuming each day.
 
-Before we get into calculating how long it will take to lose weight, let’s first talk about food tracking. Food tracking is going to be critical for you to see success in your weight-reduction plan, so pay attention. I’ll go into more detail on technology for tracking this in Chapter 3. For now, it’s worth mentioning some simple ways to track food because of how important this is for your foundational weight loss.
+If you're interested in learning exactly how to calculate how long it will take to lose weight, including a new method for freezing fat and breaking through plateaus, check out my book The Ice Sculpture Diet on Amazon:
+
+[https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM](https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM "The Ice Sculpture Diet")
