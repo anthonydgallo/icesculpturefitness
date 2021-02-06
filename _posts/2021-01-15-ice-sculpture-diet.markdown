@@ -14,7 +14,7 @@ Maybe you've struggled with weight loss.
 
 <strong>Maybe, like me, you stood in the mirror pinching your belly, wondering...</strong>
 
-# _How the hell can I make this belly go away?_
+_How the hell can I make this belly go away?_
 
 I've been there. 
 
