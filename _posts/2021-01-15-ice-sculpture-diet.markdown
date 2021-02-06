@@ -12,9 +12,9 @@ If you're reading this, then chances are you're trying to reach your ideal weigh
 
 Maybe you've struggled with weight loss. 
 
-<strong>Maybe, like me, you stood in the mirror pinching your belly, wondering...
+<strong>Maybe, like me, you stood in the mirror pinching your belly, wondering...</strong>
 
-<em>How the hell can I make this belly go away</em>?</strong>
+<em>How the hell can I make this belly go away</em>?
 
 I've been there. 
 
@@ -49,4 +49,5 @@ If you’ve struggled with keeping weight off in the past, The Ice Sculpture Die
 Get ready to experience a healthy weight-loss mindset, learn what your body needs to thrive, and **_freeze away stubborn fat forever_**.
 
 Check it out on Amazon: 
+
 [https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM](https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM "The Ice Sculpture Diet")
