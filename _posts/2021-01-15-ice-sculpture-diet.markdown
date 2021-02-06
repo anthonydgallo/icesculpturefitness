@@ -14,7 +14,7 @@ Maybe you've struggled with weight loss.
 
 <strong>Maybe, like me, you stood in the mirror pinching your belly, wondering...</strong>
 
-_How the hell can I make this belly go away?_
+_How the hell can I make this go away?_
 
 I've been there. 
 
@@ -34,8 +34,10 @@ In a first-of-its-kind holistic plan, _The Ice Sculpture Diet_ introduces a fat 
 
 Following this plan, you'll see and feel a distinct difference in the shape of your body in as little as one month.  
  
-If you’ve struggled with keeping weight off in the past, The Ice Sculpture Diet is a new method that can help reduce fat permanently.   
+If you’ve struggled with keeping weight off in the past, <em>[The Ice Sculpture Diet](https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM "The Ice Sculpture Diet")</em> is a new method that can help reduce fat permanently.   
 
 Get ready to experience a healthy weight-loss mindset, learn what your body needs to thrive, and **_freeze away stubborn fat forever_**.
+
+Check it out on Amazon now:
 
 [https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM](https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM "The Ice Sculpture Diet")
