@@ -8,12 +8,27 @@ tags:
   - Fat Freezing
 published: true
 ---
+If you're reading this, then chances are you're trying to reach your ideal weight. 
 
-Are you one of the thousands of people who look in the mirror each morning and plead with your belly, "Please! Please shrink!"?  
+Maybe you've struggled with weight loss. 
+
+<strong>Maybe, like me, you stood in the mirror pinching your belly, wondering, <em>How the hell can I make this go away</em>?</strong>
+
+I've been there. 
+
+I was bullied as a child for being overweight. Even after losing weight and seeing what was possible, I still had doubts, and I still had weight to lose. 
+
+I suffered through diets, not eating enough and feeling weak throughout the day. 
+
+I had stubborn fat that seemed like it would never disappear. 
+
+**I watched my weight bounce up and down on the scale without a clue as to why. **
+
+Losing thirty-five pounds was a step in the right direction, but I wouldn't discover how to truly lose stubborn fat until years later, while stuck at home during the COVID-19 lockdown.
 
  
 
-In <em>The Ice Sculpture Diet</em>, Anthony D. Gallo lays out a step-by-step guide to reshape your body, improve your health, and make your abs visible again.  
+In <em>The Ice Sculpture Diet</em>, I lay out a step-by-step guide to reshape your body, improve your health, and make your abs visible again.  
 
  
 
