@@ -12,7 +12,7 @@ permalink: /template/index.html
 hidden: true
 sitemap: false
 ---
-# Thank you for reading The Ice Sculpture Diet!
+## Thank you for reading The Ice Sculpture Diet!
 
 It looks like you're preparing to start your diet routine.
 
