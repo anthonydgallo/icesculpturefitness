@@ -1,7 +1,7 @@
 ---
 title: 'Presenting: The Ice Sculpture Diet'
 layout: post
-date: '2021-02-06'
+date: '2021-02-05'
 img: article_header.jpg
 fig-caption: null
 tags:
