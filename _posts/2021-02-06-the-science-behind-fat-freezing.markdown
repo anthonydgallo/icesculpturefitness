@@ -45,5 +45,5 @@ Once fat cells are frozen long enough, your body naturally begins to remove them
 
 Your body may make more fat cells if your diet isn’t in check, though. This is why my book starts with The Foundation to keep you prepared.
 
-If you're interested in learning more about the entire plan, check out The Ice Sculpture Diet on Amazon:
+If you're interested in learning more about the entire plan, check out <em>The Ice Sculpture Diet</em> on Amazon:
 [https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM](https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM "The Ice Sculpture Diet")
