@@ -55,6 +55,6 @@ Don’t be tempted to add extra calories to your burn rate. If you want to lose 
 
 Knowing that I burn at least 1,729 calories a day, I can calculate how much food I have to eat to lose weight. I can also calculate almost exactly how long it will take to lose 5, 10, or 15 pounds based on my “intake number,” or the number of calories I’m consuming each day.
 
-If you're interested in learning exactly how to calculate how long it will take to lose weight, including a new method for freezing fat and breaking through plateaus, check out my book The Ice Sculpture Diet on Amazon:
+If you're interested in learning exactly how to calculate how long it will take to lose weight, including a new method for freezing fat and breaking through plateaus, check out my book <em>The Ice Sculpture Diet</em> on Amazon:
 
 [https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM](https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM "The Ice Sculpture Diet")
