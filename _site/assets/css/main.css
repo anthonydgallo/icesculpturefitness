@@ -1429,7 +1429,7 @@ a.newer-posts:hover {
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
-  .email {
+  .email1 {
     display: none;
   }
   .isd-title {

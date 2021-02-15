@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-15T20:34:46+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Ice Sculpture Diet</title><subtitle>Virtual home for the Ice Sculpture Diet. Learn How To Lose Fat with The Foundation, The Freeze, And The Mind.
+</subtitle><author><name>Anthony D. Gallo</name></author><entry><title type="html">How To Calculate Your BMR</title><link href="http://localhost:4000/calculating-your-bmr/" rel="alternate" type="text/html" title="How To Calculate Your BMR" /><published>2021-02-06T00:00:00+00:00</published><updated>2021-02-06T00:00:00+00:00</updated><id>http://localhost:4000/calculating-your-bmr</id><content type="html" xml:base="http://localhost:4000/calculating-your-bmr/">&lt;p&gt;Everyone’s body burns a minimum amount of calories throughout the day to maintain life-sustaining functions, like breathing and brain activity. You burn calories even when you’re asleep. But how many calories do you burn? What are the factors that affect that number?&lt;/p&gt;
+
+&lt;p&gt;To answer these questions, you’ll need to calculate your Basal Metabolic Rate (BMR).&lt;/p&gt;
+
+&lt;h1 id=&quot;the-basal-metabolic-rate&quot;&gt;The Basal Metabolic Rate&lt;/h1&gt;
+
+&lt;p&gt;Your BMR is the estimated number of calories that a person of your height, weight, age, and gender burns over twenty-four hours. Knowing your BMR allows you to understand how many calories you’ll burn in a day even if you didn’t exercise. Note that your BMR estimate can differ from your actual burn rate if you have more muscle mass than the average person.&lt;/p&gt;
+
+&lt;p&gt;For example, a bodybuilder with 10 to 20 pounds more muscle mass than an average person has a higher actual burn rate than their BMR estimates. This is because muscle mass burns more calories than regular body mass.&lt;/p&gt;
+
+&lt;p&gt;We’re going to work with BMR throughout this book, so let’s calculate yours now.&lt;/p&gt;
+
+&lt;h1 id=&quot;how-to-calculate-your-bmr&quot;&gt;How To Calculate Your BMR&lt;/h1&gt;
+&lt;p&gt;You can find various formulas for BMR online, but I use the ones below (known as the Harris-Benedict equation):&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Men:&lt;/strong&gt; 66 + (6.23 x Weight in Pounds) + (12.7 x Height in Inches) – (6.8 x Age in Years)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Women:&lt;/strong&gt; 655 + (4.35 x Weight in Pounds) + (4.7 x Height in Inches) – (4.7 x Age in Years)&lt;/p&gt;
+
+&lt;p&gt;To understand this in practice, let’s calculate my current BMR. I’m a male who is 155 pounds, 71 inches tall, and thirty years old.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here’s the math using the formula above:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;66 + (6.23 x 155) + (12.7 x 71) – (6.8 x 30) = 1,729.35 calories a day&lt;/p&gt;
+
+&lt;p&gt;So, my BMR number is roughly 1,729 calories a day. Knowing this, I can assume that if I ate exactly 1,729 calories a day and did no exercise, I wouldn’t gain or lose any weight.&lt;/p&gt;
+
+&lt;p&gt;Now it’s your turn. Calculate your BMR and burn that number into your mind for the next few weeks and months. Remembering your BMR will help you make progress, so write it down.&lt;/p&gt;
+
+&lt;p&gt;Once you calculate your BMR, losing weight becomes a lot clearer. You can use it to calculate how much weight you will lose in a single day. You can even use it to calculate a daily calorie maximum intake if you want to lose a specific number of pounds by a certain date.&lt;/p&gt;
+
+&lt;p&gt;Many people pay personal trainers for an initial session just to understand their BMR. Now that you know how to do this for yourself, you can skip that session.&lt;/p&gt;
+
+&lt;h1 id=&quot;use-what-the-bmr-calculation-tells-you&quot;&gt;Use What the BMR Calculation Tells You&lt;/h1&gt;
+
+&lt;p&gt;While we will add calories to our BMR number later for exercise, it is easy to assume that you burn more calories than what the BMR equation tells you.&lt;/p&gt;
+
+&lt;p&gt;Don’t be tempted to add extra calories to your burn rate. If you want to lose weight, the first step is to accept the baseline numbers so that you can build off them. While starting off, use the BMR equation above and work with the number you get. We can be a little bit more flexible later once the weight starts coming off.&lt;/p&gt;
+
+&lt;h1 id=&quot;so-you-calculated-your-bmr-now-what&quot;&gt;So, You Calculated Your BMR. Now What?&lt;/h1&gt;
+
+&lt;p&gt;Knowing that I burn at least 1,729 calories a day, I can calculate how much food I have to eat to lose weight. I can also calculate almost exactly how long it will take to lose 5, 10, or 15 pounds based on my “intake number,” or the number of calories I’m consuming each day.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in learning exactly how to calculate how long it will take to lose weight, including a new method for freezing fat and breaking through plateaus, check out my book &lt;em&gt;The Ice Sculpture Diet&lt;/em&gt; on Amazon:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&quot; title=&quot;The Ice Sculpture Diet&quot;&gt;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&lt;/a&gt;&lt;/p&gt;</content><author><name>Anthony D. Gallo</name></author><category term="Fat Freezing" /><summary type="html">Everyone’s body burns a minimum amount of calories throughout the day to maintain life-sustaining functions, like breathing and brain activity. You burn calories even when you’re asleep. But how many calories do you burn? What are the factors that affect that number?</summary></entry><entry><title type="html">Presenting: The Ice Sculpture Diet</title><link href="http://localhost:4000/ice-sculpture-diet/" rel="alternate" type="text/html" title="Presenting: The Ice Sculpture Diet" /><published>2021-02-05T00:00:00+00:00</published><updated>2021-02-05T00:00:00+00:00</updated><id>http://localhost:4000/ice-sculpture-diet</id><content type="html" xml:base="http://localhost:4000/ice-sculpture-diet/">&lt;p&gt;If you’re reading this, then chances are you’re trying to reach your ideal weight.&lt;/p&gt;
+
+&lt;p&gt;Maybe you’ve struggled with weight loss.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maybe, like me, you stood in the mirror pinching your belly, wondering…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How the hell can I make this go away?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been there.&lt;/p&gt;
+
+&lt;p&gt;I was bullied as a child for being overweight. Even after losing weight and seeing what was possible, I still had doubts, and I still had weight to lose.&lt;/p&gt;
+
+&lt;p&gt;I suffered through diets, not eating enough and feeling weak throughout the day.&lt;/p&gt;
+
+&lt;p&gt;I had stubborn fat that seemed like it would never disappear.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I watched my weight bounce up and down on the scale without a clue as to why.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Losing thirty-five pounds was a step in the right direction, but I wouldn’t discover how to truly lose stubborn fat until years later, while stuck at home during the COVID-19 lockdown.&lt;/p&gt;
+
+&lt;p&gt;In &lt;em&gt;The Ice Sculpture Diet&lt;/em&gt;, I lay out a step-by-step guide to reshape your body, improve your health, and make your abs visible again.&lt;/p&gt;
+
+&lt;p&gt;In a first-of-its-kind holistic plan, &lt;em&gt;The Ice Sculpture Diet&lt;/em&gt; introduces a fat freezing routine along with practical weight-loss science and fitness tracking to ensure long-term fat reduction.&lt;/p&gt;
+
+&lt;p&gt;Following this plan, you’ll see and feel a distinct difference in the shape of your body in as little as one month.&lt;/p&gt;
+
+&lt;p&gt;If you’ve struggled with keeping weight off in the past, &lt;em&gt;The Ice Sculpture Diet&lt;/em&gt; is a new method that can help reduce fat permanently.&lt;/p&gt;
+
+&lt;p&gt;Get ready to experience a healthy weight-loss mindset, learn what your body needs to thrive, and &lt;strong&gt;&lt;em&gt;freeze away stubborn fat forever&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Check it out on Amazon now:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&quot; title=&quot;The Ice Sculpture Diet&quot;&gt;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&lt;/a&gt;&lt;/p&gt;</content><author><name>Anthony D. Gallo</name></author><category term="Fat Freezing" /><summary type="html">If you’re reading this, then chances are you’re trying to reach your ideal weight.</summary></entry><entry><title type="html">The Science Behind Fat Freezing</title><link href="http://localhost:4000/the-science-behind-fat-freezing/" rel="alternate" type="text/html" title="The Science Behind Fat Freezing" /><published>2021-02-05T00:00:00+00:00</published><updated>2021-02-05T00:00:00+00:00</updated><id>http://localhost:4000/the-science-behind-fat-freezing</id><content type="html" xml:base="http://localhost:4000/the-science-behind-fat-freezing/">&lt;p&gt;For many years, I followed what was written in The Foundation (Part 1) of my book, &lt;em&gt;&lt;a href=&quot;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&quot; title=&quot;The Ice Sculpture Diet&quot;&gt;The Ice Sculpture Diet&lt;/a&gt;&lt;/em&gt;, and saw great, short-term success. Then, I discovered a new way to remove a crazy amount of fat from targeted areas of my body.&lt;/p&gt;
+
+&lt;p&gt;Once I built a routine around this method, with The Foundation to start, the results I achieved were fantastic. I gained a new way of looking at fat loss, and you will too.&lt;/p&gt;
+
+&lt;p&gt;Let’s dive into the latest in fat reduction methods: at-home fat freezing.&lt;/p&gt;
+
+&lt;p&gt;Many people haven’t heard about fat freezing as a method for targeting and reducing fat. Others have heard about it but didn’t know it was possible to do easily at home. The first reaction I get when I explain this technique from &lt;em&gt;&lt;a href=&quot;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&quot; title=&quot;The Ice Sculpture Diet&quot;&gt;The Ice Sculpture Diet&lt;/a&gt;&lt;/em&gt; is usually doubt. You can freeze fat and make it disappear? You might be thinking this too.&lt;/p&gt;
+
+&lt;p&gt;I was also skeptical about fat freezing until I added it to my overall plan and started seeing my abs again. The results were so good that I kept it in my weekly routine for maintenance, even after I had a six-pack. After experiencing this success, I knew I had to share my experience with others. In case it isn’t clear yet, fat freezing works. Let’s talk about how.&lt;/p&gt;
+
+&lt;h1 id=&quot;how-fat-freezing-works&quot;&gt;How Fat Freezing Works&lt;/h1&gt;
+
+&lt;p&gt;There’s a method to the madness. You don’t want to simply place ice packs on random parts of your body. In fact, you will hurt yourself if you do this. What I’m going to show you in this chapter is a safe way to use ice wraps to reduce fat. I call this process fat freezing, but the technical term is cold-induced fat apoptosis (CIFA).&lt;/p&gt;
+
+&lt;p&gt;I remember first hearing about CIFA back in 2017 and thinking to myself, There is no possible way this could work, or I would’ve heard about it by now. I’m grateful I was willing to open my mind and research more. What I discovered ended up being the one thing that worked for getting rid of that stubborn belly fat that I had since I was a kid.&lt;/p&gt;
+
+&lt;p&gt;CIFA works for one simple reason: fat cells freeze at a higher temperature than surrounding skin and other tissue. If you can create an environment where fat cells freeze without affecting the skin, muscle, or other cells near the fat, you can target the fat closest to the skin for an overall reduction in fat.&lt;/p&gt;
+
+&lt;p&gt;It’s important to know that there are two types of fat in the body. There’s visceral fat, which is the fat stored deeper in your body, surrounding your organs. Then, there’s subcutaneous fat, or the fat that is closest to the surface of your skin.&lt;/p&gt;
+
+&lt;p&gt;If you follow the steps outlined in The Foundation, you will be reducing both visceral and subcutaneous fat. In The Freeze, we’re looking to specifically reduce subcutaneous fat using fat freezing methods. Fat freezing is the icing on the cake for this plan; it allows us to get leaner even when the scale isn’t moving.&lt;/p&gt;
+
+&lt;p&gt;I’m going to walk you through the entire Ice Sculpture Freeze Routine soon. You’ll be able to easily follow along and see results using this and The Foundation. First, let’s look at how CIFA was discovered and the science behind it so that we understand our options.&lt;/p&gt;
+
+&lt;h1 id=&quot;how-cifa-was-discovered&quot;&gt;How CIFA Was Discovered&lt;/h1&gt;
+
+&lt;p&gt;In 1970, two doctors, Dr. Mark Oren and Dr. Ervin Epstein, discovered and coined the term “popsicle panniculitis.”&lt;/p&gt;
+
+&lt;p&gt;Oren and Epstein were investigating the case of a toddler who was brought into their office. The child had developed dimples shortly after eating a popsicle. They hypothesized that the popsicle was held against the infant’s inner cheek long enough that it damaged the fat cells in the infant’s cheek. This left the child with a cold-induced dimple, hence the name “popsicle” panniculitis. Panniculitis, by the way, is the medical term for when bumps form in subcutaneous fat.&lt;/p&gt;
+
+&lt;p&gt;Oren and Epstein coined the term but didn’t do much else with their discovery. Years passed before other researchers began wondering if the method could be used for more targeted fat loss. Today, we know of several methods for freezing fat off the body.&lt;/p&gt;
+
+&lt;p&gt;What’s amazing about fat freezing is that it can cause fat cells to be permanently removed from your body. Fat cells rarely die on their own. Once they are created, they shrink or grow based on your diet. Fat freezing gives your body a way to remove these cells entirely.
+Once fat cells are frozen long enough, your body naturally begins to remove them through its cleanup process.&lt;/p&gt;
+
+&lt;p&gt;Your body may make more fat cells if your diet isn’t in check, though. This is why my book starts with The Foundation to keep you prepared.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in learning more about the entire plan, check out &lt;em&gt;The Ice Sculpture Diet&lt;/em&gt; on Amazon:
+&lt;a href=&quot;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&quot; title=&quot;The Ice Sculpture Diet&quot;&gt;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&lt;/a&gt;&lt;/p&gt;</content><author><name>Anthony D. Gallo</name></author><category term="Fat Freezing" /><summary type="html">For many years, I followed what was written in The Foundation (Part 1) of my book, The Ice Sculpture Diet, and saw great, short-term success. Then, I discovered a new way to remove a crazy amount of fat from targeted areas of my body.</summary></entry><entry><title type="html">Ice Sculpture Diet Approved Products</title><link href="http://localhost:4000/recs/index.html" rel="alternate" type="text/html" title="Ice Sculpture Diet Approved Products" /><published>2021-01-01T00:00:00+00:00</published><updated>2021-01-01T00:00:00+00:00</updated><id>http://localhost:4000/recs/recs</id><content type="html" xml:base="http://localhost:4000/recs/index.html"></content><author><name>Anthony D. Gallo</name></author><category term="Fat Freezing" /><summary type="html">Recommendations from The Ice Sculpture Diet Book</summary></entry><entry><title type="html">The Ice Sculpture Diet Routine Template</title><link href="http://localhost:4000/template/index.html" rel="alternate" type="text/html" title="The Ice Sculpture Diet Routine Template" /><published>2021-01-01T00:00:00+00:00</published><updated>2021-01-01T00:00:00+00:00</updated><id>http://localhost:4000/template/template</id><content type="html" xml:base="http://localhost:4000/template/index.html">&lt;h2 id=&quot;thank-you-for-reading-the-ice-sculpture-diet&quot;&gt;Thank you for reading The Ice Sculpture Diet!&lt;/h2&gt;
+
+&lt;p&gt;It looks like you’re preparing to start your diet routine.&lt;/p&gt;
+
+&lt;p&gt;You’ve got a great journey ahead of you. This free template should help set you on the right path.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Download the template from the book here:&lt;/strong&gt;
+&lt;a href=&quot;http://icesculpturediet.com/files/ISD_Template.pdf&quot; target=&quot;_blank&quot;&gt;The Ice Sculpture Diet Template Download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you found this page before reading the book, grab a copy of the book below (you’ll be happy you did):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&quot; title=&quot;The Ice Sculpture Diet&quot;&gt;https://www.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&lt;/a&gt;&lt;/p&gt;</content><author><name>Anthony D. Gallo</name></author><category term="Fat Freezing" /><summary type="html">Thank you for reading The Ice Sculpture Diet!</summary></entry><entry><title type="html">Thank You For Subscribing!</title><link href="http://localhost:4000/thankyou/index.html" rel="alternate" type="text/html" title="Thank You For Subscribing!" /><published>2021-01-01T00:00:00+00:00</published><updated>2021-01-01T00:00:00+00:00</updated><id>http://localhost:4000/thankyou/thank-you</id><content type="html" xml:base="http://localhost:4000/thankyou/index.html">&lt;h2 id=&quot;thanks-for-subscribing&quot;&gt;Thanks for subscribing!&lt;/h2&gt;
+
+&lt;p&gt;If you haven’t checked out the book yet, you can find it &lt;strong&gt;&lt;a href=&quot;https://smile.amazon.com/Ice-Sculpture-Diet-Complete-Freeze-ebook/dp/B08V3VCDSM&quot; title=&quot;The Ice Sculpture Diet&quot;&gt;here&lt;/a&gt;&lt;/strong&gt; on Amazon.&lt;/p&gt;
+
+&lt;p&gt;Also check out the Ice Sculpture Diet approved weight loss and fitness equipment &lt;strong&gt;&lt;a href=&quot;https://www.icesculpturediet.com/recs&quot; title=&quot;Approved Items&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name>Anthony D. Gallo</name></author><category term="Fat Freezing" /><summary type="html">Thanks for subscribing!</summary></entry></feed>
